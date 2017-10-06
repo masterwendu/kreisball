@@ -1,5 +1,5 @@
 # Kreisball
-Das beste Gruppen-Ballspiel, erfunden von Johannes und Wendelin :sunglasses:
+Das beste Gruppen-Ballspiel für Jung und Alt, erfunden von Johannes und Wendelin :sunglasses:
 
 ## Du brauchst :white_check_mark:
 * Viel Absperrband
