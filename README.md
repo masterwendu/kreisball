@@ -10,8 +10,8 @@ Das beste Gruppen-Ballspiel, erfunden von Johannes und Wendelin :sunglasses:
 
 ## Aufbau :wrench:
 1.  Bilde einen kleinen Kreis mit dem Absperrband und den Stöcken
-* Bilde einen großen Kreis mit dem Absperrband und den Stöcken
-* Erschaffe 4 Spielfelder, wobei jedes Spielfeld kleiner wird
+2. Bilde einen großen Kreis mit dem Absperrband und den Stöcken
+3. Erschaffe 4 Spielfelder, wobei jedes Spielfeld kleiner wird
 
 ## Spielregeln :point_up:
 * Spieler eines Teams dürfen sich nur in ihrem eigenen Spielfeld oder im kleinen Kreis :o: in der Mitte, welcher auch als freie Zone bezeichnet wird, aufhalten.
@@ -31,11 +31,11 @@ Das beste Gruppen-Ballspiel, erfunden von Johannes und Wendelin :sunglasses:
 
 ## Spielablauf :baseball:
 1.  Die 4 Bälle werden in den kleinen Kreis zu jeweils einem Spielfeld gelegt.
-* Wurde vorher noch nicht gespielt dann lose welches Team in welches Spielfeld kommt.
-* Die Spieler stellen sich an den Rand ihrer Spielfelder
+2. Wurde vorher noch nicht gespielt dann lose welches Team in welches Spielfeld kommt.
+3. Die Spieler stellen sich an den Rand ihrer Spielfelder
   * Vor Spielbeginn sollte sich das Team ausmachen wer der Sprinter oder die Sprinterin ist. :running:
   * Die Sprinterin oder der Sprinter laufen bei Start des Spiels zu den Bällen und versuchen die Bälle in das eigene Feld zu schießen, um einen Vorteil zu erlangen.
   * Natürlich ist die Gefahr auch groß getroffen zu werden.
-* Schitzrichter pfeift --> Spiel beginnt.
-* Spieler versuchen andere Teams ins out zu befördern
-* Das Team welches am Ende übrig bleibt gewinnt die Runde. :crown:
+4. Schitzrichter pfeift --> Spiel beginnt.
+5. Spieler versuchen andere Teams ins out zu befördern
+6. Das Team welches am Ende übrig bleibt gewinnt die Runde. :crown:
