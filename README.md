@@ -1,6 +1,10 @@
 # Kreisball
 Das beste Gruppen-Ballspiel für Jung und Alt, erfunden von Johannes und Wendelin :sunglasses:
 
+[kreisball.leopoldau.eu](http://kreisball.leopoldau.eu/)
+
+![kreisball logo][logo]
+
 ## Du brauchst :white_check_mark:
 * Viel Absperrband
 * 14 Stöcke :golf:
@@ -39,3 +43,5 @@ Das beste Gruppen-Ballspiel für Jung und Alt, erfunden von Johannes und Wendeli
 4. Schitzrichter pfeift --> Spiel beginnt.
 5. Spieler versuchen andere Teams ins out zu befördern
 6. Das Team welches am Ende übrig bleibt gewinnt die Runde. :crown:
+
+[logo]: https://github.com/masterwendu/kreisball/raw/master/logo.png "Logo Kreisball"
