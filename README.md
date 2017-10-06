@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Kreisball
+Das beste Gruppen-Ballspiel, erfunden von Johannes und Wendelin :sunglasses:
 
-You can use the [editor on GitHub](https://github.com/masterwendu/kreisball/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Du brauchst :white_check_mark:
+* Viel Absperrband
+* 14 Stöcke :golf:
+* 4 Bälle :tennis: (Soft oder Plastik)
+* Mindestens 12 bis maximal 24 Spieler :family:
+* Mindestens einen aber besser mehrere Schitzrichter :cop:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Aufbau :wrench:
+1.  Bilde einen kleinen Kreis mit dem Absperrband und den Stöcken
+* Bilde einen großen Kreis mit dem Absperrband und den Stöcken
+* Erschaffe 4 Spielfelder, wobei jedes Spielfeld kleiner wird
 
-### Markdown
+## Spielregeln :point_up:
+* Spieler eines Teams dürfen sich nur in ihrem eigenen Spielfeld oder im kleinen Kreis :o: in der Mitte, welcher auch als freie Zone bezeichnet wird, aufhalten.
+  * Ausgenommen ein Spieler wurde abgeschossen, dann muss er am Rande seines eigen Spielfeldes warten.
+* Sogenanntes "Fischen" ist erlaubt. Wenn ein Ball im gegnerischen Spielfeld liegt, darf ein Spieler den Ball holen sofern seine beiden Füße das eigene Spielfeld berühren. Somit kann der Spieler sich ganz hinlegen und ausstrecken um den Ball zu bekommen.
+  * Betritt der Spieler aber das gegnerische Feld ist er automatisch abgeschossen.
+* Wenn ein Spieler einen **Ball** in der Hand hält darf er **nicht gehen oder laufen**
+  * Ausgenommen in seinem Team sind nur noch 2 oder weniger Mitspieler nicht abgeschossen.
+* Ein Spieler darf zu einem anderen Mitspieler passen
+* Ein Spieler darf von seinem Spielfeld oder aus der freien Zone Gegenspieler abschießen.
+* Wurde ein Spieler von einem Gegenspieler abgeschossen, dann muss er sofort hinaus ohne das weitere Spielgeschehen zu stören und am Rande seines eigenen Spielfelds warten.
+  * Am Rande des Spielfedes muss eine Warteschlange richtig eingehalten werden, der erste Spieler der hinaus musste steht an erster Stelle.
+* Wird ein Spieler abgeschossen, der Ball berührt aber nicht den Boden und ein anderer Spieler, egal ob Mit- oder Gegenspieler, fängt den Ball, gilt der abgeschossene Spieler als "gerettet" und darf somit im Spielfeld bleiben.
+* Hält ein Spieler einen Ball und ein Ball eines Gegenspielers trifft diesen Ball, ist der Spieler abgeschossen.
+* Wenn ein Gegenspieler einen Spieler abschießen möchte, der Spieler aber den Ball fängt dann darf der erste Mitspieler aus der Warteschlange am Rande des Spielfeldes wieder in das Spiel kommen :smiley:
+* Schießt ein Mitspieler einen Spieler ab, passiert nichts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/masterwendu/kreisball/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Spielablauf :baseball:
+1.  Die 4 Bälle werden in den kleinen Kreis zu jeweils einem Spielfeld gelegt.
+* Wurde vorher noch nicht gespielt dann lose welches Team in welches Spielfeld kommt.
+* Die Spieler stellen sich an den Rand ihrer Spielfelder
+  * Vor Spielbeginn sollte sich das Team ausmachen wer der Sprinter oder die Sprinterin ist. :running:
+  * Die Sprinterin oder der Sprinter laufen bei Start des Spiels zu den Bällen und versuchen die Bälle in das eigene Feld zu schießen, um einen Vorteil zu erlangen.
+  * Natürlich ist die Gefahr auch groß getroffen zu werden.
+* Schitzrichter pfeift --> Spiel beginnt.
+* Spieler versuchen andere Teams ins out zu befördern
+* Das Team welches am Ende übrig bleibt gewinnt die Runde. :crown:
